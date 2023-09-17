@@ -1,1 +1,1 @@
-# Smoke-Effect-on-Your-Name-CSS-Animation
+# Smoke-Effect-on-Your-Name
